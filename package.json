@@ -53,7 +53,7 @@
     "cuid": "^2.1.8",
     "esbuild": "^0.17.4",
     "esbuild-register": "^3.4.2",
-    "framer-motion": "^8.5.2",
+    "framer-motion": "^10.0.0",
     "html-to-image": "^1.11.4",
     "lodash.debounce": "^4.0.8",
     "mdx-bundler": "^9.2.1",
